@@ -1,0 +1,14 @@
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\bin\Debug\net8.0\ovningSelection.exe
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\bin\Debug\net8.0\ovningSelection.deps.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\bin\Debug\net8.0\ovningSelection.runtimeconfig.json
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\bin\Debug\net8.0\ovningSelection.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\bin\Debug\net8.0\ovningSelection.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.AssemblyInfoInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.AssemblyInfo.cs
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.csproj.CoreCompileInputs.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\refint\ovningSelection.dll
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.pdb
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ovningSelection.genruntimeconfig.cache
+C:\Users\zirko\Desktop\Webbutveckling\c# 1\ovningSelection\obj\Debug\net8.0\ref\ovningSelection.dll
